@@ -4,7 +4,7 @@
 *TypeScript • React • Go (Golang) • Rust • Python • PostgreSQL • Kubernetes*
 
 📍 **Brazil (UTC-3 — US EST & EU CET Overlap)** | 🌐 **Open to Global Remote Roles (USD / EUR)**  
-📫 **Reach me at:** [diogol@me.com](mailto:diogol@me.com) | 🔗 [controllerti.com.br](https://controllerti.com.br)
+🔗 **LinkedIn:** [linkedin.com/in/diogol](https://www.linkedin.com/in/diogol/)
 
 ---
 
@@ -45,5 +45,4 @@ As Principal Engineer & Technical Founder at **[@Controller-TI](https://github.c
 
 ### 📫 Let's Connect
 
-- **Email:** [diogol@me.com](mailto:diogol@me.com)
-- **Website:** [controllerti.com.br](https://controllerti.com.br)
+- **LinkedIn:** [linkedin.com/in/diogol](https://www.linkedin.com/in/diogol/)
