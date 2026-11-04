@@ -25,7 +25,8 @@ As Principal Engineer & Technical Founder at **[@Controller-TI](https://github.c
   - Built standalone interactive **HTML5 Canvas 2D & TypeScript** live soccer match widgets featuring real-time telemetry translation, instant replay, and connection diagnostics.
 - 🌍 **Edge-Native Web Applications (`TypeScript`, `React 19`, `Next.js`, `Astro`, `Cloudflare Workers`):**
   - Designed and deployed responsive, low-TTFB web applications and edge-cached APIs using **React 19, Tailwind CSS v4, Astro, and Cloudflare Workers**.
-- 🤖 **High-Availability Messaging & AI Automation (`Go`, `Rust`, `Python`, `Kubernetes`):**
+- 🤖 **High-Availability Messaging, Browser Scraping & AI Automation (`Go`, `Rust`, `Python`, `Camoufox`, `Kubernetes`):**
+  - Engineered a crash-resumable **Bet365** scraping & synchronization worker in **Python** and **Camoufox** with ephemeral session isolation, lease-based job queues, and **Cloudflare R2** archival.
   - Built fault-tolerant WhatsApp broadcast and community microservices in **Go** and **Rust** orchestrated on **Kubernetes**, with automated number failover, magic-link authentication, and AI-assisted workflows.
 - 🏢 **Enterprise Systems & Legacy Modernization (`Java`, `TypeScript`, `PostgreSQL`):**
   - Maintained and modernized large-scale enterprise backends (`Java/SQL`) and TypeScript web applications.
@@ -39,7 +40,7 @@ As Principal Engineer & Technical Founder at **[@Controller-TI](https://github.c
 | **Frontend & Edge** | `TypeScript` `React 19` `Next.js` `Astro` `Tailwind CSS v4` `HTML5 Canvas 2D` `WebSockets` `SSE` `Cloudflare Workers` |
 | **Backend & Systems** | `Go (Golang)` `Python` `Node.js` `Rust` `Java` `REST` `gRPC` `Event-Driven Architecture` |
 | **Data & Infra** | `PostgreSQL (PL/pgSQL)` `Redis` `Kubernetes (K8s)` `Docker` `Cloudflare Edge` `Linux / Bash` `CI/CD` |
-| **AI & Automation** | `LLM & Agent Integrations` `Python Bots` `WhatsApp Automation (Go / Rust)` |
+| **AI & Automation** | `LLM & Agent Integrations` `Playwright & Camoufox` `Python Bots` `WhatsApp Automation (Go / Rust)` |
 
 ---
 
